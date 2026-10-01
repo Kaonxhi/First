@@ -1,1 +1,68 @@
+/* Typography */
+body {
+    font-family: arial, sans-serif;
+    color: #222;
+    background: #fafafa;
+    line-height: 1.6;
+}
 
+/* Headings */
+.portfolio {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.about {
+    font-size: 1.4rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.codsquad {
+    font-size: 1.4rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+/* Paragraphs */
+.paragraph {
+    margin: 12px 0;
+    text-align: left;
+}
+
+/* Images */
+.image-center {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.main-image {
+    width: 400px;
+    border-radius: 6px;
+}
+
+figure 
+{display: flex;
+    justify-content: center;
+  margin: 20px 0;
+'}
+
+/* Links */
+.links {
+    margin-top: 20px;
+}
+
+.link {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #0066cc;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
